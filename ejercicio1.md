@@ -1,2 +1,2 @@
-Hola estamos en el examen de prueba<< HEAD
+Hola estamos en el examen de prueba
 Esta saliendo bien
