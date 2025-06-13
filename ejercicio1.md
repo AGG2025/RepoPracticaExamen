@@ -1,4 +1,4 @@
 Hola estamos en el examen de 
-Esta saliendo bien
+Esta saliendo mal
 Me encantan las croquetas
 Hola soy Paco y me gusta el queso
